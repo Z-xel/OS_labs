@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.exe
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.deps.json
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.runtimeconfig.json
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.runtimeconfig.dev.json
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.dll
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\bin\Debug\netcoreapp3.1\lab_main.pdb
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\obj\Debug\netcoreapp3.1\lab_main.csprojAssemblyReference.cache
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\obj\Debug\netcoreapp3.1\lab_main.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\obj\Debug\netcoreapp3.1\lab_main.AssemblyInfo.cs
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\obj\Debug\netcoreapp3.1\lab_main.dll
+C:\Users\student\source\repos\OS_labs\Labs1\lab_main\obj\Debug\netcoreapp3.1\lab_main.pdb
